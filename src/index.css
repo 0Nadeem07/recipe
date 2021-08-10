@@ -6,7 +6,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(16, 191, 141);
+  background-color: white;
+  z-index: 1;
+
   
 }
 
@@ -15,3 +17,10 @@ code {
     monospace;
 }
 
+/*.circle{
+  background: turquoise;
+  height: 100px;
+  width:100px;
+  border-radius: 50%;
+  float:inherit;
+  z-index: 1;}*/

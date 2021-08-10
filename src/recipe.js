@@ -6,7 +6,7 @@ const Recipe = ({title,calories,image,cuisineType,ingredients}) => {
         <div className='card-container'>
             <div className='card'>
                 <figure className='front'>
-                <h1>{title}</h1>            
+                <h1 className='cardTitle'>{title}</h1>            
                 <img src={image} alt="loading.." className='img' /><br></br>
                 <h5>Cuisine: {cuisineType}</h5><br></br>
                 <p><b>Calories:</b> {calories}</p><br></br>
