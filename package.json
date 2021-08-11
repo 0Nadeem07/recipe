@@ -1,6 +1,6 @@
 {
-  "name": "recipe-app",
-  "homepage": "http://0Nadeem07.github.io/reciipe",
+  "name": "react-app",
+  "homepage": "http://0Nadeem07.github.io/recipe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

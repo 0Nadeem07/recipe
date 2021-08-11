@@ -185,11 +185,14 @@ padding-top: 8px;
 
 
 @media only screen and (min-width:300px) and (max-width:480px){
-  .search_form{width:90%;}
+  .search_form{width:90%;
+  margin-bottom: 30px;}
   .search_bar{width:60%;}
   .search_btn{padding: 0%;}
   .card{width:300px;
-  height:350px;}
+  height:350px;
+  margin-top:40px;
+  margin-bottom:20px;}
   .title{font-size:2.3rem ;}
   .cardTitle{font-size: 20px;}
   .img{width: 180px;
